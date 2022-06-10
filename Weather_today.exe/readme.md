@@ -21,7 +21,6 @@ To do this, download the
 [**Weather.exe**](https://github.com/omelchenkoigor8388/Weather_today.exe/tree/master/Weather_today.exe/dist) 
 file to your PC and open it as a normal file / program.
 
-![img.png](img.png)
 ![img_2.png](img_2.png)
 
 ### What was used to create the Weather today program?
