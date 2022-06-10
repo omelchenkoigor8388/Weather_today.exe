@@ -25,6 +25,6 @@ file to your PC and open it as a normal file / program.
 
 ### What was used to create the Weather today program?
 
-- Files from Weather today v1.0
+- Files from [Weather today v1.0](https://github.com/omelchenkoigor8388/Weather_today)
 - **Pyinstaller** library for converting .py files to .exe
 - Adobe Photoshop for making icons
